@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '歡迎來到心靈遊樂場~在這裡你可以跟我們一起… … ', url: 'https://www.magicland.life' },
+    { title: '盡情玩耍、體驗豐盛，認識自己並成為自己喜歡的自己 ', url: 'https://www.magicland.life' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -15,12 +15,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '健康覺察',
+  HEO_HERO_TITLE_2: '財富創造',
+  HEO_HERO_TITLE_3: '關係連結',
+  HEO_HERO_TITLE_4: '',
+  HEO_HERO_TITLE_5: '人類圖實驗與覺察',
+  HEO_HERO_TITLE_LINK: 'https://www.magicland.life',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -34,7 +34,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
+    '你好！我們是',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
